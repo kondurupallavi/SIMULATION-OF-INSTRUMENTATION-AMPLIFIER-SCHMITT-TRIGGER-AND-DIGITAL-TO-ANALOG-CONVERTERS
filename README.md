@@ -36,4 +36,5 @@ LT-Spice
 ![WhatsApp Image 2025-11-16 at 22 05 21_8e96d272](https://github.com/user-attachments/assets/5324242a-1684-43fb-b639-2f71a687f450)
 
 ## RESULT :
-Thus the LT spice has been studied and Instrumentation amplifier ,schmitt trigger and digital to Analog convertor is simulated.
+Thus the LT spice has been studied and Instrumentation amplifier ,schmitt trigger and digital to Analog convertor is simulated..
+
